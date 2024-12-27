@@ -14,7 +14,7 @@
 
 1. Код
 
-[Main.java](/tree/main/src/main/java/org/example)
+[Main.java](src/main/java/org/example)
 
 2. Диаграмма UML
 
